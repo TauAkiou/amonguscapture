@@ -1,6 +1,8 @@
 # amonguscapture-gtk <img src="AmongUsCapture/icon.ico" width="48">
 [![Build](https://github.com/TauAkiou/amonguscapture-gtk/workflows/Beta%20releases/badge.svg)](https://github.com/tauakiou/amonguscapture-gtk/actions?query=Beta%20releases)
 
+###Note: This is an older, unsupported branch of the amonguscapture-gtk utility, kept around for archival purposes. Please do not open issue reports targeting this branch. 
+
 Capture of the local Among Us executable state
 
 The amonguscapture-gtk project brings the amonguscapture utility to other platforms by removing the Windows dependent WinForms framework and replacing it with the open-source GTK framework (https://www.gtk.org/).
