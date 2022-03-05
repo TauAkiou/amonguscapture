@@ -9,8 +9,10 @@ AmongusCapture-gtk is currently supported under:
 * Windows
 * Linux
 
+## *Version v1.0 of the capture is no longer being supported. It will be replaced with the 'v2.0' branch when ready, but will remain archived under the 'au-gtk-final' branch. Please check [Issue 15](https://github.com/TauAkiou/amonguscapture-gtk/issues/15) for information on the v2.0 update.*
+
 ## Prebuilt Releases
-Prebuilt releases are available here: [prebuilt releases](https://github.com/TauAkiou/amonguscapture-gtk/releases)
+- Prebuilt releases are currently not available. The current releases will not work at this time.
 
 ## NOTE FOR LINUX USERS:
 
